@@ -1,0 +1,50 @@
+
+.img_center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+.fistinput {
+    width: 200px;
+    height: 50px;
+    padding-inline-start: 8px;
+    border-radius: 11px;
+    font-size: 20px;
+}
+
+.sum {
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+    color: red;
+    transition: 0.15s;
+}
+
+.sum:hover {
+    background-color: red;
+    color: aqua;
+}
+
+.sum:active {
+    background-color: grey;
+    color: blue;
+}
+.myp {
+    font-size: 18px;
+    font-family: Arial;
+    cursor: default;
+}
+
+.lab1 {
+    font-size: 18px;
+    font-family: Arial;
+    cursor: pointer; 
+}
+
+.lab2 {
+    font-size: 18px;
+    font-family: Arial;
+    cursor: pointer; 
+}
